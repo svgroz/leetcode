@@ -1,4 +1,4 @@
-package org.svgroz;
+package org.svgroz.algs;
 
 public class KnuthMorisPratt {
     public int[] prefix(char[] s) {
